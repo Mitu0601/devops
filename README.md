@@ -23,4 +23,3 @@ npm run dev
 
 ## Version
 
-1.0.0
